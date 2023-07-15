@@ -30,3 +30,5 @@ pnpm-debug.log*
 # Astro cache
 /.astro
 
+# mine
+pnpm-lock.yaml
